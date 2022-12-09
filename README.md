@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ArthurGuilarde/ArthurGuilarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hello there :wave:, welcome to my Github profile.</h1>
+# Hello there :wave:, welcome to my Github profile.
 
 - 🔭 I’m currently working on Sicoob UniCentro Br
 - 🌱 I’m currently learning Data Engineering concepts and technologies in the [Udacity Nanodegree](https://github.com/ArthurGuilarde/Nanodegree-Data-Engineering)
