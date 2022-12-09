@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello there :wave:, welcome to my Github profile.
-
+My name is Arthur I'm graduated in Bachelor in Information System at the Instituto Federal de Goiás (IFG) and focused on becoming a Data Engeneering!
 - 🔭 I’m currently working on Sicoob UniCentro Br
 - 🌱 I’m currently learning Data Engineering concepts and technologies in the [Udacity Nanodegree](https://github.com/ArthurGuilarde/Nanodegree-Data-Engineering)
 - 📫 How to reach me: Next topic 😁
