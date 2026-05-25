@@ -1,7 +1,7 @@
 ## Arthur Guilarde
 **Data Software Engineer & Architect**
 
-I engineer scalable data platforms by applying software engineering rigor—SOLID principles, Test-Driven Development (TDD), and Design Patterns—to Data Engineering workflows. Currently transitioning complex data pipelines into maintainable, object-oriented, and tested architectures.
+I engineer scalable data platforms by applying software engineering rigor SOLID principles, Test-Driven Development (TDD), and Design Patterns—to Data Engineering workflows. Currently transitioning complex data pipelines into maintainable, object-oriented, and tested architectures.
 
 ### 🏗️ Current Focus: Project Stractos
 Developing a public reference framework for Data Engineering in Python. 
